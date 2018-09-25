@@ -1,0 +1,11 @@
+C:\source\codeworks\UserLibrary\bin\Debug\netcoreapp2.1\UserLibrary.deps.json
+C:\source\codeworks\UserLibrary\bin\Debug\netcoreapp2.1\UserLibrary.runtimeconfig.json
+C:\source\codeworks\UserLibrary\bin\Debug\netcoreapp2.1\UserLibrary.runtimeconfig.dev.json
+C:\source\codeworks\UserLibrary\bin\Debug\netcoreapp2.1\UserLibrary.dll
+C:\source\codeworks\UserLibrary\bin\Debug\netcoreapp2.1\UserLibrary.pdb
+C:\source\codeworks\UserLibrary\obj\Debug\netcoreapp2.1\UserLibrary.csprojAssemblyReference.cache
+C:\source\codeworks\UserLibrary\obj\Debug\netcoreapp2.1\UserLibrary.csproj.CoreCompileInputs.cache
+C:\source\codeworks\UserLibrary\obj\Debug\netcoreapp2.1\UserLibrary.AssemblyInfoInputs.cache
+C:\source\codeworks\UserLibrary\obj\Debug\netcoreapp2.1\UserLibrary.AssemblyInfo.cs
+C:\source\codeworks\UserLibrary\obj\Debug\netcoreapp2.1\UserLibrary.dll
+C:\source\codeworks\UserLibrary\obj\Debug\netcoreapp2.1\UserLibrary.pdb
